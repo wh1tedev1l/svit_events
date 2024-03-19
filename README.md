@@ -1,2 +1,2 @@
 # svit_events
-SVIT events
+Simple Static College Events Portal
